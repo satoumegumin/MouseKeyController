@@ -1,0 +1,9 @@
+﻿  ControllerClass.cpp
+  RobotController.cpp
+I:\maodou\MouseController\MouseController\RobotController.cpp(88,45): warning C4267: “=”: 从“size_t”转换到“LONG”，可能丢失数据
+I:\maodou\MouseController\MouseController\RobotController.cpp(89,45): warning C4267: “=”: 从“size_t”转换到“LONG”，可能丢失数据
+I:\maodou\MouseController\MouseController\RobotController.cpp(129,17): warning C4267: “参数”: 从“size_t”转换到“DWORD”，可能丢失数据
+I:\maodou\MouseController\MouseController\RobotController.cpp(134,13): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+I:\maodou\MouseController\MouseController\RobotController.cpp(146,28): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  正在生成代码...
+  MouseController.vcxproj -> I:\maodou\MouseController\x64\Debug\MouseController.exe
